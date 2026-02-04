@@ -1,0 +1,6 @@
+Writing line 1
+Writing line 2
+Writing line 3
+Writing line 4
+Writing line 5
+=====END OF FILE=====
