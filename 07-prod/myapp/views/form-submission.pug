@@ -1,0 +1,5 @@
+extends layout
+
+block content
+  h1 Thanks for sending the file, #{data.username}!
+  img(src="/done/" + file.filename, alt='Uploaded file')
